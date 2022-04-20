@@ -1,0 +1,28 @@
+    .form-section{
+        margin: 0px; 
+        width: 60%;
+        height: 80vh;
+        
+        border: 1px solid rgba(218, 230, 231, 0.137);
+        border-radius: 10px;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;  
+        padding: 20px 40px 30px 50px; 
+        display: flex;
+        flex-direction: column;
+        background-color: rgb(107, 111, 146);
+        
+        align-items: center;
+        overflow: auto;
+        
+    }
+
+    .form-content{
+        display: flex;
+        align-items: center;
+        margin: 15px 0px 15px 0px 
+    }
+
+    .form-key{
+        
+        padding-right: 30px;
+    }

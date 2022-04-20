@@ -1,0 +1,26 @@
+.user-card{
+    height: 350px;
+    width: 380px; 
+    background-color: #adb9d4;
+    margin: 20px;
+    
+}
+
+.content{
+    margin: 10px 0px 10px 0px;
+    display: flex;
+    flex-direction: row;
+    text-align: start;
+}
+
+.content-key{
+    font-weight: bold; 
+    margin-right: 10px;
+    padding-right: 10px;
+}
+
+.card-content{
+    padding: 15px;
+    
+    height: 100%;
+}
